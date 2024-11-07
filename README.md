@@ -1,11 +1,7 @@
 # Teste A/B - PraCêAndo
 
-## Integrantes
-- Guilherme
-- Fernanda
-
 ## Objetivo
-Comparar duas versões da interface do aplicativo PraCêAndo — V1 (oficial) e V2 (nova) — para avaliar a eficácia das mudanças no design e na experiência do usuário.
+Comparar duas versões da interface do aplicativo PraCêAndo — V1 e V2 — para avaliar a eficácia das mudanças no design e na experiência do usuário.
 
 ## Metodologia
 Foi criado um formulário para coletar dados de 30 participantes, divididos igualmente entre as duas versões (15 para V1 e 15 para V2). Os participantes foram avaliados quanto ao tempo médio gasto na tela "Home" de cada versão, além de responderem perguntas sobre facilidade de uso, organização visual e satisfação geral.
