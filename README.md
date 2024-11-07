@@ -1,4 +1,4 @@
-# Teste A/B - PraCêAndo
+# Teste A/B - Praceando
 
 ## Objetivo
 Comparar duas versões da interface do aplicativo PraCêAndo — V1 e V2 — para avaliar a eficácia das mudanças no design e na experiência do usuário.
